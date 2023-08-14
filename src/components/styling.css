@@ -6,9 +6,9 @@ p {
 
 button {
   background-color: #5c94ce;
-  border-radius: 15px;
+  border-radius: 10px;
   color: white;
-  padding: 15px 32px;
+  padding: 15px 15px;
   margin: 10px;
   text-align: center;
   text-decoration: none;
